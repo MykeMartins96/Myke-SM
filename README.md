@@ -1,5 +1,5 @@
 <h1>💻 Myke Santana Martins | Front-End Developer</h1>
-<h2>Desenvolvedor Front-End em formação, com experiência prática no desenvolvimento de aplicações web utilizando React.js, JavaScript, HTML5 e CSS3.</h2>
+<h2>Desenvolvedor Front-End em formação pelo DevClub, com experiência prática no desenvolvimento de aplicações web utilizando React.js, JavaScript, HTML5 e CSS3.</h2>
 
 <br>
 
