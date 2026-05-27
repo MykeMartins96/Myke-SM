@@ -1,21 +1,67 @@
-<h1>💻 Myke Santana Martins - Programador Front End<h1/>
-<h2>Eu sou Myke Santana Martins, sou Programador Front End atualmente estou aprendendo e criando projetos em uma formação de TI chamado DevClub, estou estudando com as técnologias:<h2/>
-<a href="https://google.com"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" /></a>
-  <br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
-  <br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-  <br/>
-  <br/>
+<h1>💻 Myke Santana Martins | Front-End Developer</h1>
+<h2>Desenvolvedor Front-End em formação, com experiência prática no desenvolvimento de aplicações web utilizando React.js, JavaScript, HTML5 e CSS3.</h2>
 
-<h2>Esse é meu linkedin, para que possam ver meus trabalhos realizados e meus contatos:<h2/>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<br/>
-<br/>
+<br>
 
-<h2>Nivel Atual:</h2>
+<h1>Atualmente desenvolvendo projetos focados em:</h1>
+<h2>- Interfaces responsivas
+<br>
+- Consumo de APIs REST
+<br>
+- Aplicações React
+<br>
+- Dashboards interativos
+<br>
+- CRUD Fullstack
+<br>
+- Integração entre Frontend e Backend</h2>
 
-[![Myke stats](https://github-readme-stats.vercel.app/api?username=msm1996)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msm1996)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+<h1>🚀 Tecnologias e ferramentas:</h1>
+<h2>- React.js
+<br> 
+- JavaScript
+<br>
+- HTML5
+<br>
+- CSS3
+<br>
+- Node.js
+<br>
+- MongoDB
+<br>
+- Prisma ORM
+<br>
+- Styled Components
+<br>
+- Axios
+<br>
+- Git e GitHub
+<br>
+- APIs REST
+<br>
+- React Router DOM</h2>
+
+<br>
+
+<h1>📁 Projetos publicados com deploy:</h1>
+<h2>Dashboard de Usuários
+<br>
+<br>
+Link Publicado: (https://dashboard-usuario-three.vercel.app/)</h2>
+<br>
+<h2>Catálogo de Filmes com API TMDB
+<br>
+<br>
+Link Publicado: (https://projeto-filmes-two.vercel.app/)</h2>
+<br>
+<h2>Sistema Fullstack de Cadastro de Usuário
+<br>
+<br>
+Link Publicado: (https://cadastro-usuarios-phi.vercel.app/)</h2>
+
+<br>
+
+<h2>🔗 LinkedIn: (www.linkedin.com/in/myke-santana-martins)</h2>
 
