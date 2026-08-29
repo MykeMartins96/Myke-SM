@@ -1,67 +1,39 @@
-<h1>💻 Myke Santana Martins | Front-End Developer</h1>
-<h2>Desenvolvedor Front-End em formação pelo DevClub, com experiência prática no desenvolvimento de aplicações web utilizando React.js, JavaScript, HTML5 e CSS3.</h2>
+# 💻 Myke Santana Martins | Front-End Developer
 
-<br>
+## Desenvolvedor Front-End em formação pelo DevClub, com experiência prática no desenvolvimento de aplicações web utilizando React.js, JavaScript, HTML5 e CSS3.
 
-<h1>Atualmente desenvolvendo projetos focados em:</h1>
-<h2>- Interfaces responsivas
-<br>
-- Consumo de APIs REST
-<br>
-- Aplicações React
-<br>
-- Dashboards interativos
-<br>
-- CRUD Fullstack
-<br>
-- Integração entre Frontend e Backend</h2>
+# Atualmente desenvolvendo projetos focados em:
 
-<br>
+## - Interfaces responsivas
+## - Consumo de APIs REST
+## - Aplicações React
+## - Dashboards interativos
+## - CRUD Fullstack
+## - Integração entre Frontend e Backend
 
-<h1>🚀 Tecnologias e ferramentas:</h1>
-<h2>- React.js
-<br> 
-- JavaScript
-<br>
-- HTML5
-<br>
-- CSS3
-<br>
-- Node.js
-<br>
-- MongoDB
-<br>
-- Prisma ORM
-<br>
-- Styled Components
-<br>
-- Axios
-<br>
-- Git e GitHub
-<br>
-- APIs REST
-<br>
-- React Router DOM</h2>
+# 🤖 Projeto em Destaque
 
-<br>
+## SmartFeedback AI
 
-<h1>📁 Projetos publicados com deploy:</h1>
-<h2>Dashboard de Usuários
-<br>
-<br>
-Link Publicado: (https://dashboard-usuario-three.vercel.app/)</h2>
-<br>
-<h2>Catálogo de Filmes com API TMDB
-<br>
-<br>
-Link Publicado: (https://projeto-filmes-two.vercel.app/)</h2>
-<br>
-<h2>Sistema Fullstack de Cadastro de Usuário
-<br>
-<br>
-Link Publicado: (https://cadastro-usuarios-phi.vercel.app/)</h2>
+Aplicação Full Stack para análise de feedbacks de clientes utilizando Inteligência Artificial.
 
-<br>
+O sistema permite enviar feedbacks de clientes e utiliza a API do Google Gemini para identificar o sentimento, gerar uma nota e produzir um insight sobre o comentário.
 
-<h2>🔗 LinkedIn: (www.linkedin.com/in/myke-santana-martins)</h2>
+🔗 [Acessar SmartFeedback AI](https://smartfeedback-ai.vercel.app/)
 
+💻 [Ver código do SmartFeedback AI](https://github.com/MykeMartins96/smartfeedbackAI)
+
+# 🚀 Tecnologias e ferramentas:
+
+## - React.js
+## - JavaScript
+## - HTML5
+## - CSS3
+## - Node.js
+## - MongoDB
+## - Prisma ORM
+## - Styled Components
+## - Axios
+## - Git e GitHub
+## - APIs REST
+## - React Router DOM
