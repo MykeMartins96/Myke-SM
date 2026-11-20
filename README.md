@@ -93,3 +93,13 @@ Formação prática em desenvolvimento Front-End e Back-End, com foco em JavaScr
 ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MykeMartins96&layout=compact&theme=tokyonight)
 
 
+## 📈 Minha atividade no GitHub
+
+![Gráfico de atividades](https://github-readme-activity-graph.vercel.app/graph?username=MykeMartins96&theme=tokyo-night)
+
+## 🔥 Sequência de contribuições
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MykeMartins96&theme=tokyonight)
+
+
+
