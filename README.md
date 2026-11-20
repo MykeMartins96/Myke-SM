@@ -1,105 +1,105 @@
 
-# 👨‍💻 Myke Santana Martins
+# 👋 Olá! Sou Myke Santana Martins
 
-### Desenvolvedor Full Stack | Front-End | React.js | Node.js
+### 💻 Desenvolvedor Full Stack | React.js | Node.js | JavaScript
 
-Desenvolvedor Full Stack em formação pelo **DevClub**, com experiência prática em projetos utilizando React.js, JavaScript, Node.js, Express.js e MongoDB.
+Sou um desenvolvedor em transição de carreira para a área de tecnologia, com formação prática Full Stack pelo **DevClub**, iniciada em outubro de 2024.
 
-Desenvolvo interfaces responsivas, APIs REST, sistemas CRUD, dashboards e aplicações com integração de Inteligência Artificial.
+Tenho conhecimentos em desenvolvimento Front-End e Back-End, criando interfaces responsivas, componentes reutilizáveis, APIs REST, operações CRUD, autenticação de usuários e integração com bancos de dados.
 
-🎯 **Buscando minha primeira oportunidade como Desenvolvedor Full Stack ou Front-End Júnior.**
+Atualmente, estou aprofundando meus conhecimentos em TypeScript e buscando minha primeira oportunidade profissional como **Desenvolvedor Front-End ou Full Stack Júnior**.
 
-## 🛠️ Tecnologias
+---
 
-**Front-End**
-- React.js
-- JavaScript
-- HTML5 e CSS3
-- Styled Components
-- Axios
-- React Router DOM
+## 🚀 Sobre mim
 
-**Back-End**
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- Prisma ORM
-- APIs REST
-- JWT
+- 🎓 Formação Full Stack pelo DevClub
+- 💻 Desenvolvimento de aplicações com React.js e Node.js
+- 🔗 Integração de APIs REST e bancos de dados
+- 🤖 Experiência em projetos pessoais com Inteligência Artificial
+- 📚 Atualmente estudando TypeScript
+- 🎯 Objetivo: primeira oportunidade como Desenvolvedor Júnior
+- 📍 São Paulo, SP — Brasil
 
-**Ferramentas**
-- Git e GitHub
-- Vite
-- Vercel
-- Render
-- Google Gemini API
+---
 
-📚 **Atualmente estudando:** TypeScript.
+## 📊 Tecnologias e linguagens utilizadas
 
-## 🚀 Projetos em Destaque
+Este gráfico apresenta automaticamente as linguagens identificadas nos meus repositórios públicos.
 
-### 🤖 SmartFeedback AI
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MykeMartins96&layout=compact&theme=tokyonight&langs_count=8)
 
-Aplicação Full Stack que utiliza Inteligência Artificial para analisar feedbacks de clientes, identificar sentimentos e apresentar resultados em um dashboard.
+**Principais tecnologias:** React.js, JavaScript, HTML5, CSS3, Node.js, Express.js, MongoDB, PostgreSQL, Prisma ORM, Tailwind CSS, Git e GitHub.
 
-**Tecnologias:** React, Node.js, Express, MongoDB e Google Gemini.
+---
 
-🔗 [Aplicação Online](https://smartfeedback-ai.vercel.app/)
-
-💻 [Código-Fonte](https://github.com/MykeMartins96/smartfeedbackAI)
-
-### 📊 DeskFlow Finance
-
-Sistema Full Stack de gerenciamento de tarefas com autenticação JWT, operações CRUD, dashboard e assistente de IA para sugestão de prioridades.
-
-**Tecnologias:** React, Node.js, Express, MongoDB e Google Gemini.
-
-🔗 [Aplicação Online](https://deskflow-finance-frontend.vercel.app/)
-
-💻 [Front-End](https://github.com/MykeMartins96/deskflow-finance-frontend)
-
-⚙️ [Back-End](https://github.com/MykeMartins96/deskflow-finance-backend)
-
-### 🎫 Sistema de Chamados HelpDesk
-
-Aplicação Full Stack para gerenciamento de chamados de suporte, com autenticação JWT, operações CRUD, filtros e dashboard com estatísticas.
-
-**Tecnologias:** React, Node.js, Express, MongoDB e JWT.
-
-🔗 [Aplicação Online](https://sistema-chamados-helpdesk.vercel.app/)
-
-💻 [Código-Fonte](https://github.com/MykeMartins96/sistema-chamados-helpdesk)
-
-## 🎓 Formação
-
-**DevClub — Desenvolvimento Web Full Stack**
-
-Formação prática em desenvolvimento Front-End e Back-End, com foco em JavaScript, React.js, Node.js e integração de aplicações.
-
-## 📫 Contato
-
-💼 [LinkedIn](https://www.linkedin.com/in/myke-santana-martins/)
-
-💻 [GitHub](https://github.com/MykeMartins96)
-
-
-## 📊 Estatísticas do GitHub
+## 📈 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MykeMartins96&show_icons=true&theme=tokyonight)
 
-## 💻 Linguagens mais utilizadas
+---
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MykeMartins96&layout=compact&theme=tokyonight)
-
-
-## 📈 Minha atividade no GitHub
+## 📉 Minha atividade no GitHub
 
 ![Gráfico de atividades](https://github-readme-activity-graph.vercel.app/graph?username=MykeMartins96&theme=tokyo-night)
+
+---
 
 ## 🔥 Sequência de contribuições
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MykeMartins96&theme=tokyonight)
+
+---
+
+## 🛠️ Projetos em destaque
+
+### 🤖 SmartFeedback AI — Dashboard de Sentimentos
+
+Aplicação Full Stack com integração de Inteligência Artificial para análise de sentimentos.
+
+**Tecnologias:** React.js, JavaScript, Node.js, Express.js, MongoDB e API Gemini.
+
+### 📋 DeskFlow Finance — Sistema de Tarefas
+
+Aplicação Full Stack para gerenciamento de tarefas, com autenticação de usuários, dashboard e integração de Inteligência Artificial.
+
+**Tecnologias:** React.js, JavaScript, Node.js, Express.js, MongoDB, JWT e Recharts.
+
+### 🏢 ContaFácil IA — Sistema para Contadores
+
+Projeto em desenvolvimento voltado ao gerenciamento de clientes e agendamentos, com proposta de integração de Inteligência Artificial.
+
+**Tecnologias:** React.js, Node.js, Express.js, Prisma ORM e PostgreSQL.
+
+---
+
+## 🎓 Formação
+
+**DevClub — Formação Full Stack**
+
+Início: outubro de 2024
+
+Formação prática em desenvolvimento web, com foco em Front-End, Back-End, APIs REST, bancos de dados e construção de aplicações completas.
+
+---
+
+## 🎯 Objetivo profissional
+
+Busco minha primeira oportunidade como **Desenvolvedor Front-End ou Full Stack Júnior**, em ambiente remoto ou híbrido em São Paulo.
+
+Meu objetivo é aplicar meus conhecimentos em projetos reais, colaborar com equipes de desenvolvimento e continuar evoluindo profissionalmente.
+
+---
+
+## 📬 Contato
+
+- 💼 LinkedIn: adicione aqui o link do seu perfil
+- 💻 GitHub: https://github.com/MykeMartins96
+
+---
+
+⭐ Sempre aprendendo, desenvolvendo projetos e evoluindo na programação!
+
 
 
 
