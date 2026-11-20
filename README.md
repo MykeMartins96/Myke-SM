@@ -83,3 +83,13 @@ Formação prática em desenvolvimento Front-End e Back-End, com foco em JavaScr
 
 💻 [GitHub](https://github.com/MykeMartins96)
 
+
+## 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MykeMartins96&show_icons=true&theme=tokyonight)
+
+## 💻 Linguagens mais utilizadas
+
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MykeMartins96&layout=compact&theme=tokyonight)
+
+
